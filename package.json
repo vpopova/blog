@@ -1,0 +1,30 @@
+{
+  "name": "react-express-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpopova/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpopova/blog/issues"
+  },
+  "homepage": "https://github.com/vpopova/blog#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "browserify": "^16.2.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "gulp": "^4.0.0",
+    "gulp-live-server": "0.0.31",
+    "react": "^16.6.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
